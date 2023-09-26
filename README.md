@@ -1,7 +1,6 @@
 ### Olá! Eu sou @leandromenzen
 
 <!--
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -38,7 +37,6 @@
  <img align="center" alt="Leandro-Metashape" height="30" width="30" src="https://yt3.googleusercontent.com/ytc/APkrFKb3ge47Wf6G6OqEd2JlQ4qTD0K4spvM-b0mgWG4Dg=s900-c-k-c0x00ffffff-no-rj">
  <img align="center" alt="Leandro-Unity3D" height="30" width="30" src="https://i.redd.it/8n6x4gk2pnr71.png">
 
-    
 <div style="display: inline_block"><br>
   Programming Languages
   <img align="center" alt="Leandro-C#" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
@@ -50,9 +48,15 @@
   <img align="center" alt="Leandro-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leandro-PHP" height="30" width="30" src="https://www.php.net//images/logos/new-php-logo.svg">
   <img align="center" alt="Leandro-XML" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/9412/9412973.png">
-  
-  
-  
 
-
+<div style="display: inline_block"><br>
+  Vehicles I drive and pilot
+  <img align="center" alt="Leandro-DRONE" height="30" width="40" src="https://seeklogo.com/images/D/dji-logo-300C779B44-seeklogo.com.png">
+   <img align="center" alt="Leandro-CARRO" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2554/2554936.png">
+    <img align="center" alt="Leandro-CAMINHONETE" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/123/123919.png">
+     <img align="center" alt="Leandro-CAMINHAO" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/726/726455.png">
+      <img align="center" alt="Leandro-ONIBUS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6556/6556198.png">
+       <img align="center" alt="Leandro-RETROESCAVADEIRA" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/10541/10541020.png">
+        <img align="center" alt="Leandro-ESCAVADEIRA" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/3417/3417056.png">
+        
 </div>
