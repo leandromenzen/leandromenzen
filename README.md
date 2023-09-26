@@ -26,12 +26,12 @@
   <img align="center" alt="Leandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leandro-PHP" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://www.php.net//images/logos/new-php-logo.svg)">
-  <img align="center" alt="Leandro-XML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leandro-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leandro-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leandro-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leandro-PORTUGOL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Leandro-PHP" height="30" width="40" src="https://www.php.net//images/logos/new-php-logo.svg">
+  <img align="center" alt="Leandro-XML" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/9412/9412973.png">
+  <img align="center" alt="Leandro-C#" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
+  <img align="center" alt="Leandro-C++" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
+  <img align="center" alt="Leandro-PYTHON" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/800px-Python_logo_01.svg.png">
+  <img align="center" alt="Leandro-PORTUGOL" height="30" width="40" src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png">
   
   <img align="center" alt="Leandro-afterEffects" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" >
   <img align="center" alt="Leandro-premierePro" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" >
