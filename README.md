@@ -21,7 +21,7 @@
 
 ## 💻 Skills
   <div style="display: inline_block"><br>
-  Domain Software
+  Domain Software:
   <img align="center" alt="Leandro-premierePro" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" >
   <img align="center" alt="Leandro-afterEffects" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png" >
   <img align="center" alt="Leandro-Audition" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Adobe_Audition_CC_icon_%282020%29.svg" >
@@ -30,7 +30,7 @@
   <img align="center" alt="Leandro-Illustrator" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" >
 
   <div style="display: inline_block"><br>
-  3D Softwares
+  3D Softwares:
   <img align="center" alt="Leandro-Blender" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" >
   <img align="center" alt="Leandro-Keyshot" height="30" width="30" src="https://media.keyshot.com/uploads/2018/10/keyshot-icon-256.png" >
   <img align="center" alt="Leandro-Cinema4D" height="30" width="30" src="https://img.utdstc.com/icon/596/766/59676653263343aad87c6a2a751b8f9be4ca49df3e5ce8899010b5af2256a8a5:100">
@@ -38,7 +38,7 @@
  <img align="center" alt="Leandro-Unity3D" height="30" width="30" src="https://i.redd.it/8n6x4gk2pnr71.png">
 
 <div style="display: inline_block"><br>
-  Programming Languages
+  Programming Languages:
   <img align="center" alt="Leandro-C#" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
   <img align="center" alt="Leandro-C++" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
   <img align="center" alt="Leandro-PYTHON" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/800px-Python_logo_01.svg.png">
@@ -50,7 +50,7 @@
   <img align="center" alt="Leandro-XML" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/9412/9412973.png">
 
 <div style="display: inline_block"><br>
-  Vehicles I drive and pilot
+  Vehicles I drive and pilot:
   <img align="center" alt="Leandro-DRONE" height="30" width="40" src="https://seeklogo.com/images/D/dji-logo-300C779B44-seeklogo.com.png">
    <img align="center" alt="Leandro-CARRO" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/2554/2554936.png">
     <img align="center" alt="Leandro-CAMINHONETE" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/123/123919.png">
