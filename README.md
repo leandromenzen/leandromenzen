@@ -34,8 +34,9 @@
   3D Softwares
   <img align="center" alt="Leandro-Blender" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" >
   <img align="center" alt="Leandro-Keyshot" height="30" width="30" src="https://media.keyshot.com/uploads/2018/10/keyshot-icon-256.png" >
-  <img align="center" alt="Leandro-Cinema4D" height="30" width="30" src="https://img.utdstc.com/icon/596/766/59676653263343aad87c6a2a751b8f9be4ca49df3e5ce8899010b5af2256a8a5:100" >
- <img align="center" alt="Leandro-Unity3D" height="30" width="30" src="https://i.redd.it/8n6x4gk2pnr71.png" >
+  <img align="center" alt="Leandro-Cinema4D" height="30" width="30" src="https://img.utdstc.com/icon/596/766/59676653263343aad87c6a2a751b8f9be4ca49df3e5ce8899010b5af2256a8a5:100">
+ <img align="center" alt="Leandro-Metashape" height="30" width="30" src="https://yt3.googleusercontent.com/ytc/APkrFKb3ge47Wf6G6OqEd2JlQ4qTD0K4spvM-b0mgWG4Dg=s900-c-k-c0x00ffffff-no-rj">
+ <img align="center" alt="Leandro-Unity3D" height="30" width="30" src="https://i.redd.it/8n6x4gk2pnr71.png">
 
     
 <div style="display: inline_block"><br>
@@ -43,7 +44,7 @@
   <img align="center" alt="Leandro-C#" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
   <img align="center" alt="Leandro-C++" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
   <img align="center" alt="Leandro-PYTHON" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/800px-Python_logo_01.svg.png">
-  <img align="center" alt="Leandro-PORTUGOL" height="30" width="35" src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png">
+  <img align="center" alt="Leandro-PORTUGOL" height="30" width="30" src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png">
   <img align="center" alt="Leandro-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leandro-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leandro-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
