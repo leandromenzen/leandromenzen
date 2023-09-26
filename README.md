@@ -58,5 +58,6 @@
       <img align="center" alt="Leandro-ONIBUS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6556/6556198.png">
        <img align="center" alt="Leandro-RETROESCAVADEIRA" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/10541/10541020.png">
         <img align="center" alt="Leandro-ESCAVADEIRA" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/3417/3417056.png">
+        <img align="center" alt="Leandro-737-800" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/7893/7893979.png">
         
 </div>
