@@ -31,6 +31,7 @@
   <img align="center" alt="Leandro-Illustrator" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" >
   <img align="center" alt="Leandro-Blender" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" >
   <img align="center" alt="Leandro-Keyshot" height="30" width="30" src="https://media.keyshot.com/uploads/2018/10/keyshot-icon-256.png" >
+  <img align="center" alt="Leandro-Cinema4D" height="30" width="30" src="https://img.utdstc.com/icon/596/766/59676653263343aad87c6a2a751b8f9be4ca49df3e5ce8899010b5af2256a8a5:100" >
 
     
 <div style="display: inline_block"><br>
