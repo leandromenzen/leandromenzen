@@ -23,10 +23,10 @@
 ## 💻 Skills
 <div style="display: inline_block"><br>
   Programming Languages
-  <img align="center" alt="Leandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leandro-PHP" height="30" width="40" src="https://www.php.net//images/logos/new-php-logo.svg">
+  <img align="center" alt="Leandro-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Leandro-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leandro-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Leandro-PHP" height="30" width="30" src="https://www.php.net//images/logos/new-php-logo.svg">
   <img align="center" alt="Leandro-XML" height="30" width="30" src="https://cdn-icons-png.flaticon.com/128/9412/9412973.png">
   <img align="center" alt="Leandro-C#" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
   <img align="center" alt="Leandro-C++" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png">
