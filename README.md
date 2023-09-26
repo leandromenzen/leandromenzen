@@ -21,7 +21,16 @@
 </div>
 
 ## 💻 Skills
+  <div style="display: inline_block"><br>
+  Domain Software
+      <img align="center" alt="Leandro-premierePro" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" >
+  <img align="center" alt="Leandro-afterEffects" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png" >
+  <img align="center" alt="Leandro-Audition" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Adobe_Audition_CC_icon_%282020%29.svg" >
+    <img align="center" alt="Leandro-Media-Encoder" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Adobe_Media_Encoder_Icon.svg" >
+  <img align="center" alt="Leandro-Photoshop" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" >
+  <img align="center" alt="Leandro-Illustrator" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" >
 <div style="display: inline_block"><br>
+  
   Programming Languages
   <img align="center" alt="Leandro-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leandro-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -33,13 +42,6 @@
   <img align="center" alt="Leandro-PYTHON" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/800px-Python_logo_01.svg.png">
   <img align="center" alt="Leandro-PORTUGOL" height="30" width="35" src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png">
   
-  <div style="display: inline_block"><br>
-  Domain Software
-      <img align="center" alt="Leandro-premierePro" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" >
-  <img align="center" alt="Leandro-afterEffects" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png" >
-  <img align="center" alt="Leandro-Audition" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Adobe_Audition_CC_icon_%282020%29.svg" >
-    <img align="center" alt="Leandro-Media-Encoder" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Adobe_Media_Encoder_Icon.svg" >
-  <img align="center" alt="Leandro-Photoshop" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" >
-  <img align="center" alt="Leandro-Illustrator" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" >
+
 
 </div>
