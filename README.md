@@ -28,6 +28,7 @@
   <img align="center" alt="Leandro-Media-Encoder" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Adobe_Media_Encoder_Icon.svg" >
   <img align="center" alt="Leandro-Photoshop" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" >
   <img align="center" alt="Leandro-Illustrator" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" >
+  <img align="center" alt="Leandro-DaVinci" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/pt/c/c7/DaVinci_Resolve_logo.png" >
 
   <div style="display: inline_block"><br>
   3D Softwares:
