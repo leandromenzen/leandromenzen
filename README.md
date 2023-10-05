@@ -29,6 +29,7 @@
   <img align="center" alt="Leandro-Photoshop" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" >
   <img align="center" alt="Leandro-Illustrator" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" >
   <img align="center" alt="Leandro-DaVinci" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/pt/c/c7/DaVinci_Resolve_logo.png" >
+  <img align="center" alt="Leandro-Vmix" height="30" width="70" src="https://blog.vmix.com/wp-content/uploads/2015/05/vmix-logo-transparent-small.png" >
 
   <div style="display: inline_block"><br>
   3D Softwares:
